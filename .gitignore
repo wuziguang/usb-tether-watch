@@ -1,0 +1,7 @@
+# runtime artefacts
+*.log
+*.pid
+
+# Windows
+Thumbs.db
+desktop.ini

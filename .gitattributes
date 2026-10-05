@@ -1,0 +1,6 @@
+# Normalise line endings.
+# PowerShell / batch files are CRLF on Windows; docs stay LF.
+* text=auto
+*.ps1  text eol=crlf
+*.bat  text eol=crlf
+*.md   text eol=lf
